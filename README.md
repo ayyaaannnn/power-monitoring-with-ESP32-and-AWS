@@ -37,12 +37,6 @@ Arduino IDE	Programming and uploading ESP32 code
 AWS IoT Core	Device authentication and MQTT communication
 AWS CloudWatch	Real-time data visualization and monitoring
 Python / Excel (optional)	For offline data analysis
-📡 System Architecture
-[ Load ] 
-   ↓
-[ Hall Sensor ] → [ ESP32 ] → (Wi-Fi) → [ AWS IoT Core ] → [ AWS CloudWatch ]
-                       ↑
-                [ Voltage Divider ]
 
 🚀 Getting Started
 1. Hardware Setup
@@ -90,7 +84,5 @@ Develop a mobile/web dashboard using AWS Amplify
 🧑‍💻 Author
 
 Ayan Sen
+
 B.Tech Electrical and Electronics Engineering | VIT Vellore
-Projects in IoT, Power Electronics, and Cloud Systems
-🔗 LinkedIn
- | Email
